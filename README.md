@@ -12,9 +12,9 @@
 
 ## 🌐 Connect with me:
 
-- 💼 LinkedIn: (put your link here)  
-- 📂 Portfolio: (put your link here)  
-- 📧 Email: (optional)  
+- 💼 LinkedIn: (https://www.linkedin.com/in/ahmed-gabr-3979a2298/)  
+- 📂 Portfolio: (https://myportfolio-website-chi.vercel.app/)  
+- 📧 Email: (gabrahmed339@gmail.com)  
 
 ---
 
